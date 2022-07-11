@@ -1,0 +1,25 @@
+{
+  "name": "curso-asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvargs92/curso-asincronismo-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Manuel Vargas manuel.vargas.garrido@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manvargs92/curso-asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/manvargs92/curso-asincronismo-javascript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
