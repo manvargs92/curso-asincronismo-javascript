@@ -21,5 +21,8 @@
   "homepage": "https://github.com/manvargs92/curso-asincronismo-javascript#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
