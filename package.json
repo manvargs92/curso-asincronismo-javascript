@@ -4,7 +4,8 @@
   "description": "Curso de Asincronismo con JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scriptAmigable": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
